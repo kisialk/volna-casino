@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://example.org/volna/sitemap.xml
+Sitemap: https://volna-casino.vercel.app/volna/sitemap.xml
